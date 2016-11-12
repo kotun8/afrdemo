@@ -42,3 +42,4 @@ end
 
 gem 'rails_12factor', group: :production
 gem 'pg', group: :production
+gem 'carrierwave'
